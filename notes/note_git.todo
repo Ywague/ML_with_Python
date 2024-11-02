@@ -1,0 +1,13 @@
+# commit git command 
+    Stages changes
+    git add .
+    
+    Commit with a message
+    git commit -m "Your commit message here"
+
+    Pousser sur une branch 
+    git push -u origin your-branch-name
+    example git push -u origin dev_feature
+
+
+
